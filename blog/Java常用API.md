@@ -1584,7 +1584,7 @@ System.out.println(age1);
 
 | 方法名                                                       |                                                     |
 | ------------------------------------------------------------ | --------------------------------------------------- |
-| public static String toString(类型[] a)                      | 对数组进行排序                                      |
+| public static String toString(类型[] a)                      | 对数组进行输出                                    |
 | public static void sort(类型[] a)                            | 对数组进行默认升序排序                              |
 | public static < T > void sort(类型[] a,Comparator< ? super T > c) | 使用比较器对象自定义排序                            |
 | public static int binarySearch(int[] a, int[] key)           | 二分搜索数组中的数据，存在返回 索引 ，不存在返回 -1 |
